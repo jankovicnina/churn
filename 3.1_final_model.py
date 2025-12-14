@@ -27,7 +27,7 @@ warnings.filterwarnings('ignore')
 
 # --- CONFIGURATION ---
 CONF = {
-    'OBS_DAYS': 23,
+    'OBS_DAYS': 20,
     'PRED_DAYS': 10,
     'STRIDE': 7,
     'PRED_START_DATE': datetime(2018, 11, 20),
